@@ -1,3 +1,3 @@
 # logo
 
-This repo is a storage of logo of suwakei's project
+This repository is a storage of assets of suwakei's project
